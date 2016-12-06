@@ -1,1 +1,7 @@
-so how are we going to do this
+import java.util.*;
+
+public class HangmanRunner{
+  public static void main(String[]TheDonald){
+      Scanner bcui = new Scanner(System.in);
+      System.out.println("Enter your word");
+      
